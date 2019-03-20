@@ -1,6 +1,6 @@
 # 最全面的 Material Design 学习资料
 
->本人目前正在找工作，想了解我的详细情况请移步到我的 [网页版简历](https://www.jianshu.com/p/024bd2532de9) ，希望能得到各位的推荐，谢谢！
+>本人目前正在找工作，想了解我的详细情况请移步到我的 [网页版简历](https://www.jianshu.com/) ，希望能得到各位的推荐，谢谢！
 
 ## Material Design 使用教程
 
