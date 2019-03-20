@@ -1,6 +1,6 @@
 # 最全面的 Material Design 学习资料
 
->本人目前正在找工作，想了解我的详细情况请移步到我的 [网页版简历](https://www.jianshu.com/writer#/notebooks/4772106/notes/43417884/preview) ，希望能得到各位的推荐，谢谢！
+>本人目前正在找工作，想了解我的详细情况请移步到我的 [网页版简历](https://www.jianshu.com/p/024bd2532de9) ，希望能得到各位的推荐，谢谢！
 
 关于 Material Design 在这里我就不在多做介绍了，想必做Android开发的 都听过它的大名 ，甚至用过无数次了。Material Design 是以后 Android 的主流设计风格，现在已经越来越多的APP遵循 Material Design 的设计规范来进
 行开发，是每个 Android 开发者必学的基础技术。在此我收集了一份关于 Material Design 的学习资料以便大家学习，希望对你们有所帮助！
